@@ -7,7 +7,7 @@ class Slingshot{
             bodyA: body,
             pointB : point,
             length: 10, 
-            stiffness: 1
+            stiffness: 0.04
         }
 
         this.pointB = point;
