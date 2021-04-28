@@ -122,7 +122,7 @@ function mouseDragged(){
 
 }
 
-function released(){
+function mouseReleased(){
   sling.fly()
 
 
